@@ -16,8 +16,8 @@ int main() {
          i++;
     }
     rem=fuel-sum;
-    printf("%d\n",count);
-    printf("%d",rem);
+    printf("Completed Trips: %d\n",count);
+    printf("Remaining Fuel: %d",rem);
 
     return 0;
 }
